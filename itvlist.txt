@@ -1,23 +1,8 @@
-更新时间: 2026-02-02 17:45:32（北京时间）
+更新时间: 2026-02-03 17:39:21（北京时间）
 
 更新时间,#genre#
-2026-02-02 17:45:32,https://kakaxi-1.asia/LOGO/Disclaimer.mp4
+2026-02-03 17:39:21,https://kakaxi-1.asia/LOGO/Disclaimer.mp4
 
 央视频道,#genre#
-CCTV4,http://120.196.235.42:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://120.196.235.42:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://120.196.235.42:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://120.196.235.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-广西卫视,http://120.196.235.42:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://120.196.235.42:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://120.196.235.42:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://120.196.235.42:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://120.196.235.42:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://120.196.235.42:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 数字频道,#genre#
-CHC影迷电影,http://120.196.235.42:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视中文台,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://120.196.235.42:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://120.196.235.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
